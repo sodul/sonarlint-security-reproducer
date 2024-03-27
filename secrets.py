@@ -2,5 +2,6 @@
 
 # Example fake key: from:
 # https://community.sonarsource.com/t/sonarlint-for-intellij-5-1-released-aws-secrets-detection-and-other-improvements/46506
-KEY = "AKIAIGKECZXA7AEIJLMQ";
 
+# Detected by SonarCloud:
+KEY = "AKIAIGKECZXA7AEIJLMQ"
